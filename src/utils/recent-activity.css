@@ -1,0 +1,69 @@
+.ra-main {
+  width: 34.5138%;
+  height: 95%;
+
+  background: #FFFFFF;
+  box-shadow: 0px 2px 0px #DDDEE2;
+  border-radius: 20px;
+}
+.ra-main-scroller {
+  height: 100% !important;
+  padding: 7.5421% 6.841% 0 6.841%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.infinite-scroll-component__outerdiv {
+  height: 100% !important;
+}
+.ra-main-scroller-item {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+.ra-main-scroller-item-first-group-item-col1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+.ra-main-scroller-item-first-group-item-col1 h4 {
+  font-family: Alleyn;
+  font-size: 18px;
+  font-weight: 700;
+  /* identical to box height */
+  color: #55586F;
+}
+.ra-main-scroller-item-first-group-item-col1 p {
+  font-family: Alleyn;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+text-align: right;
+color: #9A9BA9;
+}
+.ra-main-scroller-item-first-group-item-col2 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  align-items: center;
+
+}
+.ra-main-scroller-item-first-group-item-col2 p {
+  text-align: left;
+  padding-right: 0%;
+  font-family: Alleyn;
+  font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+color: #55586F;
+}

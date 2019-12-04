@@ -1,0 +1,169 @@
+.home-main {
+  height: 94.32vh;
+  width: 100vw;
+  background: #FAFAFA;
+
+}
+.home-main img {
+  margin-top: -3.1%;
+}
+
+.home-first-text-div {
+  height: 15.6036%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+
+.home-first-text-div-first-group {
+  width: 55.625%;
+  padding-right: 1%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.home-first-text-div-first-group-first-item {
+  width: 37%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10%;
+}
+.home-first-text-div-first-group-first-item h2 {
+  font-family: Alleyn;
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: -0.1em;
+  /* identical to box height */
+  color: #2A2C37;
+}
+.home-first-text-div-second-group {
+  width: 44.375%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 5.5%;
+  padding-left: 4.75% 
+}
+.home-first-text-div-second-group-first-item {
+  width: 37%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.home-first-text-div-second-group-first-item h2 {
+  font-family: Alleyn;
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: -0em;
+  
+  /* identical to box height */
+  color: #2A2C37;
+}
+.home-first-text-div-second-group-second-item {
+  display: flex;
+  flex-direction: row;
+}
+.home-first-text-div-second-group-second-item p {
+  font-family: Alleyn;
+font-size: 14px;
+text-align: right;
+margin-top: 0%;
+margin-bottom: -1em;
+color: #2A2C37;
+}
+
+
+.home-first-boxes-div {
+  height: 39.4077%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-end;
+}
+
+.home-second-text-div {
+  height: 10.1367%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.home-second-text-div-first-group {
+  width: 65.0972%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding:0 10.75% 0 5.3%;
+}
+.home-second-text-div-first-group h2 {
+  font-family: Alleyn;
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 0;
+  padding-left: 5%;
+  width: 100%;
+  
+/* identical to box height */
+color: #2A2C37;
+}
+.home-second-text-div-second-group {
+  width: 37.9027%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between  ;
+  align-items: center;
+padding:0 4.5% 0 2.75%;
+}
+
+.home-second-text-div-second-group-first-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 23%;
+  
+}
+.home-second-text-div-second-group-first-item p {
+  margin: 3% 0 0 0;
+  font-family: Alleyn;
+font-size: 14px;
+line-height: 17px;
+
+color: #2A2C37;
+}
+.home-second-text-div-second-group-first-item i {
+margin-top: 0.75%
+}
+      .home-second-boxes-div {
+  width: 100%;
+        height: 29.0432%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.home-second-text-div-second-group-third-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-right: 0%;
+  width: 21%;
+}
+.ant-dropdown-link {
+  font-family: Alleyn;
+
+text-align: right;
+
+color: #2A2C37;
+
+}
